@@ -1,6 +1,6 @@
 == README
 
-This app was created during Rails Girls "Ruby on Rails Workshops". It is a first app in RoR created by me.
+This app was created during Rails Girls "Ruby on Rails Workshops". It is first app in RoR created by me.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
